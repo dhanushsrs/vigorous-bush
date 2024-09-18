@@ -1,0 +1,21 @@
+.bg-container {
+  background-color: blueviolet;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  margin: 15px;
+}
+
+.list-container {
+  background-color: yellow;
+  border-radius: 8px;
+  margin: 15px;
+}
